@@ -1,0 +1,5 @@
+{
+  "name": "GradeAI - Guangdong English",
+  "description": "AI-powered grading assistant for Guangdong High School Entrance Exam English essays using Gemini Pro.",
+  "requestFramePermissions": []
+}
